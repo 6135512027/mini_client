@@ -7,7 +7,7 @@ yarn dev
 
 ************************************
 
-RUN FRONTEND
+RUN BACKEND
 
 node index.js
 # or
