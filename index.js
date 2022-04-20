@@ -1,4 +1,4 @@
-/*let bodyParser = require('body-parser');
+let bodyParser = require('body-parser');
 
 // all of our routes will be prefixed with /api
 app.use('/api', bodyParser.json(), router);   //[use json]
@@ -48,7 +48,7 @@ router.route('/students/:student_id')
        res.json(students.list)
    })
 
-//************************************************************************/
+//************************************************************************
 
 const express = require('express'),
     app = express(),
