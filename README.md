@@ -15,7 +15,7 @@ node index.js
 It have 2 branches
 
 1. branches main    ==  all file that commit everyday
-2. branches master  ==  Final file of project (back - front)
+2. branches master  ==  Final file of project (backend - frontend)
 
 
 --------------------------------------------------------------
